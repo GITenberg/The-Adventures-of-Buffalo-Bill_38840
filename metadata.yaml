@@ -1,0 +1,32 @@
+_repo: The-Adventures-of-Buffalo-Bill_38840
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38840-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buffalo Bill
+    aliases:
+    - Bill, Buffalo
+    - Cody, William F. (William Frederick)
+    - Cody, Buffalo Bill
+    - Cody, William Frederick
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '4524'
+    url: http://www.gutenberg.org/2009/agents/4524
+    wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
+description: ''
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Buffalo Bill, 1846-1917'
+title: The Adventures of Buffalo Bill
+url: http://www.gutenberg.org/ebooks/38840
